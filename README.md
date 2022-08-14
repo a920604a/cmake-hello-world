@@ -8,7 +8,7 @@
 ## What i can learn
 - 認識cmake、看得懂Cmake
 - 簡單使用Cmake tool
-- 如何自己的Cmake 
+- 如何自己撰寫Cmake 
 
 
 ## Cmake Introduction 
